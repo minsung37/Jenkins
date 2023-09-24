@@ -1,4 +1,4 @@
-FROM openjdk:17-jdk-slim-buster
+FROM openjdk:11-jdk-slim-buster
 
 ENV TZ=Asia/Seoul
 
